@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spenga/static/css/main.5f361e03.chunk.css",
+    "main.js": "/spenga/static/js/main.096014cb.chunk.js",
+    "main.js.map": "/spenga/static/js/main.096014cb.chunk.js.map",
+    "runtime-main.js": "/spenga/static/js/runtime-main.d8a6612b.js",
+    "runtime-main.js.map": "/spenga/static/js/runtime-main.d8a6612b.js.map",
+    "static/js/2.ed0a020d.chunk.js": "/spenga/static/js/2.ed0a020d.chunk.js",
+    "static/js/2.ed0a020d.chunk.js.map": "/spenga/static/js/2.ed0a020d.chunk.js.map",
+    "index.html": "/spenga/index.html",
+    "precache-manifest.add8a7c712acc6a3c8d52db7ba8add0f.js": "/spenga/precache-manifest.add8a7c712acc6a3c8d52db7ba8add0f.js",
+    "service-worker.js": "/spenga/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/spenga/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ed0a020d.chunk.js.LICENSE.txt": "/spenga/static/js/2.ed0a020d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spenga/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a6612b.js",
+    "static/js/2.ed0a020d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.096014cb.chunk.js"
+  ]
+}
